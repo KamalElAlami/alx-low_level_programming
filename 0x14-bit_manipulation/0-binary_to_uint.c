@@ -2,9 +2,9 @@
 
 /**
 * binary_to_uint -  converts a binary number to an unsigned int
-* @b : binary number
+* @b: binary number
 *
-* Return : the coverted number or 0
+* Return: the coverted number or 0
 */
 
 unsigned int binary_to_uint(const char *b)
